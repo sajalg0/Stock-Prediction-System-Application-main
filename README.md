@@ -85,9 +85,6 @@
 
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
-```bash
-
-```
 
 **STEP 2:** Change the directory to the repository.
 ```bash
